@@ -1,0 +1,355 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    /* hàng 1 */
+    
+    .khoi1 {
+        background-color: #F5F5F5;
+        height: 40px;
+    }
+    
+    .sdt {
+        color: red;
+        line-height: 40px;
+        ;
+    }
+    
+    .fa-phone-alt {
+        margin-right: 10px;
+    }
+    
+    .fa-book-open,
+    .fa-user-edit,
+    .fa-key {
+        margin-right: 5px;
+    }
+    
+    .nav1>.nav-item>a {
+        color: blue;
+    }
+    /* hết hàng 1 */
+    
+    .tk {
+        margin: 50px 0px;
+    }
+    
+    .nutim {
+        width: 500px;
+        height: 40px;
+    }
+    
+    .gui {
+        height: 40px;
+        width: 80px;
+        margin-left: -10px;
+        border: 1px solid blue;
+        background-color: blue;
+        color: white;
+    }
+    
+    .gui:hover {
+        background-color: white;
+        color: blue;
+        font-weight: bold;
+        transition: 1s;
+    }
+    
+    .nav2 {
+        margin-top: 45px;
+    }
+    
+    .nav2>.nav-item>a>i {
+        font-size: 35px;
+    }
+    
+    .nav-link .dh {
+        position: absolute;
+        top: 40px;
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+        background-color: red;
+        text-align: center;
+        color: white;
+        left: 60px;
+    }
+    /* nav ngang */
+    
+    .xuong>.lix {
+        list-style: none;
+        border: 1px solid gray;
+        width: 250px;
+        height: 40px;
+        line-height: 40px;
+        color: black;
+    }
+    
+    .xuong>.lix>a {
+        color: black;
+        display: block;
+        margin-left: 10px;
+    }
+    
+    .xuong>.lix>a:hover {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .xuong>.lix:hover {
+        background-color: blue;
+        font-weight: bold;
+    }
+    
+    .danhmuc {
+        width: 250px;
+        height: 40px;
+        line-height: 40px;
+        padding-left: 10px;
+        background-color: blue;
+        margin: 0px 0px;
+        color: white;
+    }
+    
+    .hang3 {
+        margin-top: 15px;
+        padding-top: 15px;
+        ;
+    }
+    
+    .gird {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 10px 10px;
+    }
+    /* footer*/
+    
+    .nav3 {
+        margin: 0px auto;
+    }
+    
+    .hangcuoi .nav>.theli {
+        list-style: none;
+    }
+    
+    .hangcuoi .nav4>.li2 {
+        list-style: none;
+    }
+    
+    .anhdm:hover {
+        transform: scale(1.09, 1.09);
+        transition: 1s;
+    }
+    
+    .hang1>.hang2>.hang3>.hang4>.hangsp>.bo>.con {
+        height: 450px;
+        border: 1px solid #cdcdcd;
+        padding-top: 10px;
+        overflow: hidden;
+        text-align: center;
+    }
+    
+    .hang1>.hang2>.hang3>.hang4>.hangsp>.owl-theme>.item>.bo>.con:hover {
+        box-shadow: 0px 3px 7px 3px #d7d5d5;
+    }
+    
+    .hang1>.hang2>.hang3>.hang4>.hangsp>.bo>.con>.hang6 {
+        margin-top: 7px;
+    }
+    
+    .hang1>.hang2>.hang3>.hang4>.hangsp>.bo>.con>span {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        color: white;
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        border-radius: 40px;
+        background-color: red;
+        text-align: center;
+        line-height: 40px;
+    }
+    
+    .hangcuoi {
+        height: 200px;
+        margin-top: 10px;
+        border-top: 2px solid gray;
+        padding-top: 20px;
+    }
+    
+    .hang7 {
+        margin-bottom: 40px;
+    }
+    
+    .chu {
+        width: 200px;
+    }
+    
+    .dsc>.lic>a {
+        text-align: left;
+        color: black;
+        padding: 10px 0px;
+    }
+    
+    .dsc>.lic {
+        padding: 5px 0px;
+    }
+    
+    .lh {
+        margin-top: 20px;
+        position: relative;
+    }
+    
+    .lh>i {
+        font-size: 50px;
+    }
+    
+    .lh>span {
+        position: absolute;
+        top: -5px;
+        margin-left: 10px;
+        font-size: 25px;
+    }
+    
+    .lh>p {
+        position: absolute;
+        top: 25px;
+        margin-left: 30px;
+        font-size: 15px;
+    }
+    
+    .lq {
+        margin-top: 20px;
+    }
+    
+    .lq>h5 {
+        margin-bottom: 10px;
+    }
+    
+    .lq>i {
+        margin-right: 15px;
+        font-size: 1.4em;
+    }
+    
+    .box1 {
+        border: 1px solid gray;
+        width: 320px;
+    }
+    
+    .chukm {
+        background-color: blue;
+        text-align: center;
+        color: white;
+        margin: 0px;
+        padding: 5px;
+        margin-top: -1px;
+    }
+    
+    .dskm>li {
+        margin-left: 50px;
+        margin-top: 10px;
+        color: blue;
+        ;
+    }
+    
+    .dskm>li>a {
+        color: black;
+    }
+    
+    .dm {
+        color: white;
+    }
+    
+    .chutt {
+        position: absolute;
+        top: 0px;
+        left: 443px;
+        background: #fff;
+        text-transform: uppercase;
+        font-size: 26px;
+        padding: 0 15px;
+    }
+    
+    .dropdown-menu {
+        position: absolute;
+        top: 30px;
+        left: 8px;
+        z-index: 100;
+    }
+    
+    .drop li {
+        text-align: left;
+        list-style: none;
+        background-color: blue;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    
+    .drop li a {
+        padding-left: 15px;
+        display: block;
+        color: white;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    
+    .drop li a:hover {
+        background-color: white;
+        color: blue;
+    }
+    
+    .hop {
+        width: 450px;
+        background-color: #FFFFFF;
+        height: 80px;
+        border-radius: 10px;
+        padding-top: 15px;
+        box-shadow: 0px 8px 35px 10px #E8E8E8;
+        margin-bottom: 15px;
+    }
+    
+    .nut {
+        width: 180px;
+        color: #ffffff;
+        background: blue;
+        border: 1px solid blue;
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+        text-align: center;
+        height: 40px;
+        margin-top: 20px;
+    }
+    
+    #doc {
+        position: absolute;
+        top: 100px;
+    }
+    
+    .center {
+        width: 290px;
+    }
+    
+    .thelikh {
+        list-style: none;
+    }
+    
+    .dskh {
+        display: none;
+    }
+    
+    .container-fluid>.container>.hang2>.col-xl-3>.nav2>.nav-item>.nav-link:hover>.dskh {
+        display: block;
+    }
+    
+    .owl-carousel {
+        margin-left: 10px;
+    }
+    
+    .no-js .owl-carousel,
+    .owl-carousel.owl-loaded {
+        display: block;
+        margin-left: 10px;
+    }
+    /*  phần chua */
