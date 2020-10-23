@@ -1,0 +1,76 @@
+.backgroud {
+    background-image: url('../image/anhnen.jpg');
+    background-size: cover;
+    height: 1000px;
+    display: flex;
+}
+
+.chua {
+    padding-top: 100px;
+}
+
+.hopchua2 {
+    width: 500px;
+    height: 550px;
+    margin: 0px auto;
+    background-color: black;
+    opacity: 0.4;
+}
+
+.ten {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.hop {
+    color: white;
+    position: absolute;
+    top: 130px;
+    right: 555px;
+}
+
+.input {
+    width: 430px;
+    height: 40px;
+    margin: 10px 45px 0px 5px;
+    background-color: #2F354A;
+    outline: none;
+    border: none;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.span {
+    color: white;
+}
+
+::placeholder {
+    /* chạy tốt trên Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1;
+    /* Firefox */
+}
+
+.input2 {
+    width: 310px;
+    height: 40px;
+    margin: 30px 37px 0px 50px;
+    border-bottom: 1px solid white;
+    background-color: #FF3366;
+    border: white;
+    outline: none;
+    color: white;
+    font-weight: bold;
+}
+
+.qmk {
+    margin-left: 170px;
+    color: white;
+    text-decoration: underline;
+}
+
+i {
+    margin-left: -75px;
+}
